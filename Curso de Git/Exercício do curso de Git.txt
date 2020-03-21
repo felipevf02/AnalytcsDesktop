@@ -1,0 +1,6 @@
+Este é o primeiro exercício do curso de git para trabalharmos com o git hub.
+Linha 1
+Linha 2
+Linha 3
+Linha 4
+Linha 5
